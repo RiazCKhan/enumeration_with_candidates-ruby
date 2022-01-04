@@ -6,4 +6,18 @@ require './filters'
 
 ## Your test code can go here
 
-pp @candidates
+# @candidates.each do | candidate |
+#  puts experienced?(candidate) end
+
+# puts find(13)
+
+# puts github_points?(@candy)
+
+# puts program_language?(@candy)
+
+# pp @candidates
+
+# puts qualified_candidates(@candidates)
+
+# puts ordered_by_qualifications(@candidates)
+
